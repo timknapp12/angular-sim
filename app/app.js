@@ -1,1 +1,1 @@
-angular.module('ecommerce', ['ui.router'])
+angular.module('triviaTrend', [])
